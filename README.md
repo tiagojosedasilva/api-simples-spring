@@ -8,5 +8,5 @@ para relembrar conceitos antes visto por mim.
 Trata-se de uma api simples de cadastro de livros com autor, titulo do livro e editora. Possuindo um banco de dados em memória  chamado H2
 e sua documentação com Swagger 2.
 
-Ao baixar o projeto e iniciar o serviço, você pode acessá-la no link abaixo:
+Ao baixar o projeto e iniciar o serviço, você pode acessá-la no link:
 http://localhost:8080/swagger-ui/index.html
